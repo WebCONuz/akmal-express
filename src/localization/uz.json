@@ -1,0 +1,145 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "addUser": "Hodim qo'shish",
+    "newOrder": "Yangi buyurtma",
+    "orders": "Buyurtmalar",
+    "settings": {
+      "title": "Sozlamalar",
+      "darkmode": "Dark mode",
+      "uz": "Uzbekcha",
+      "ru": "Ruscha"
+    },
+    "help": "Yordam",
+    "logout": "Log out"
+  },
+  "header": {
+    "search": "Izlash ..."
+  },
+  "dashboard": {
+    "title": "Umumiy Statistika",
+    "stat1": "Umumiy buyurtmalar",
+    "stat2": "Bajarildi",
+    "stat3": "Jarayonda",
+    "stat4": "Xodimlar Soni",
+    "label": "Tanlangan kundan 30 kunlik statistika"
+  },
+  "addUser": {
+    "t_head": {
+      "title": "Hodim qo'shish",
+      "full_name": "Ism, familiya",
+      "username": "username",
+      "password": "password",
+      "button": "qo'shish",
+      "table_num": "№",
+      "table_fullname": "ism familiya",
+      "table_addDate": "qo'shilgan sanasi",
+      "table_username": "username",
+      "table_activity": "holat",
+      "table_role": "role"
+    },
+    "t_body": {
+      "active": "faol",
+      "inactive": "nofaol",
+      "super_admin": "super admin",
+      "admin": "admin"
+    }
+  },
+  "newOrder": {
+    "title": "Yangi buyurtma qo’shish",
+    "customer": "Buyurtmachi",
+    "phone": "telefon raqami",
+    "link": "mahsulot linki",
+    "price": "mahsulot (narxi)",
+    "prepayment": "oldindan to’lov",
+    "button": "qo'shish",
+    "t_head": {
+      "num": "№",
+      "order_id": "buyurtma id",
+      "acceptance": "sanasi",
+      "customer_name": "buyurtmachi",
+      "link": "havola",
+      "full_price": "narx",
+      "prepayment": "oldindan to’lov",
+      "status": "status",
+      "phone": "telefon"
+    },
+    "t_body": {
+      "status_1": "Yangi",
+      "status_2": "Kutilmoqda",
+      "status_3": "Yakunlangan"
+    }
+  },
+  "orders": {
+    "title": "Buyurtmalar ro’yhati",
+    "customer": "Buyurtmachi",
+    "order_id": "Buyurtma id",
+    "from_do": "Dan-gacha",
+    "status": "Status",
+    "day": {
+      "day1": "0-30 kun",
+      "day2": "30-60 kun",
+      "day3": "60 kundan ortiq"
+    },
+    "status_options": {
+      "all": "Barchasi",
+      "new": "Yangi",
+      "waited": "Kutilmoqda",
+      "finished": "Yakunlangan"
+    }
+  },
+  "status": {
+    "title": "Buyurtma holati",
+    "step1": "STEP-1",
+    "step2": "STEP-2",
+    "step3": "STEP-3",
+    "force": "force & major",
+    "placeholder": "Komment yozish",
+    "restart": "restart",
+    "t_head": {
+      "num": "№",
+      "order_id": "buyurtma id",
+      "acceptance": "sanasi",
+      "customer_name": "buyurtmachi",
+      "full_price": "narxi",
+      "prepayment": "oldindan to’lov",
+      "comment": "comment",
+      "status": "status",
+      "phone": "telefon",
+      "admin": "admin"
+    },
+    "t_body": {
+      "status_1": "Yangi",
+      "status_2": "Kutilmoqda",
+      "status_3": "Yakunlangan"
+    }
+  },
+  "toasts": {
+    "epmloyee": {
+      "success": "Yangi xodim qo'shildi.",
+      "error": "Xatolik. Maydonlarni to'g'ri to'ldiring!",
+      "active": "aktiv xolatga o'tkazildi",
+      "noactive": "noaktiv xolatga o'tkazildi"
+    },
+    "order": {
+      "success": "Yangi buyurtma qo'shildi.",
+      "error": "Xatolik. Maydonlarni to'g'ri to'ldiring!",
+      "pending": "Buyurtma kutish xolatiga o'tkazildi.",
+      "finish": "Buyurtma yakunlandi.",
+      "comment": "Buyurtmaga komment yozildi.",
+      "restart": "Buyurtmaga restart berildi.",
+      "phone": "Telefon nomer xato kiritildi!"
+    },
+    "user": {
+      "error": "Bunday buyurtma mavjud emas!",
+      "warning": "Buyurtma ID sini kiriting!"
+    }
+  },
+  "modal": {
+    "logout": "Logout qilmoqchimisiz?",
+    "activate": "Rostdan ham adminning activligini o'zgartirmoqchimisiz?",
+    "waiting": "Bu buyurtmani kutish holatiga o'tkazmoqchimisiz?",
+    "finished": "Bu buyurtmani yakunlamoqchimisiz?",
+    "restart": "Bu buyurtmani restart qilmoqchimisiz?"
+  }
+}

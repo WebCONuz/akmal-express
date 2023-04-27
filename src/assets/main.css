@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.data-picker input {
+  height: 50px !important;
+  border-color: rgba(128, 128, 128, 0.674);
+}
